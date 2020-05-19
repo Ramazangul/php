@@ -1,0 +1,10 @@
+{
+    "require": {
+        "illuminate/container": "^7.9",
+        "monolog/monolog": "^2.0",
+        "laravel/helpers": "^1.2",
+        "larapack/dd": "^1.1",
+        "barryvdh/laravel-ide-helper": "^2.7",
+        "laravel-zero/foundation": "^7.8"
+    }
+}
